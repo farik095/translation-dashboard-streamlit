@@ -1,0 +1,16 @@
+openai
+pathlib
+python-dotenv
+python-socketio[asyncio-client] 
+pygame 
+aiohttp
+fastapi
+numpy
+openai[voice_helpers]
+sounddevice
+uvicorn 
+python-multipart
+httpx
+pandas
+streamlit
+plotly
